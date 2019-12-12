@@ -1,5 +1,10 @@
 # I've joined the #100DaysOfCode Challenge
 
+I will be coding for a minimum of one hour per day for the next 100 days.
+This repository is my log and will hold me accountable!
+
+For information on #100DaysofCode Challenge, see below.
+
 ## Contents
 
 * [Rules](rules.md)
