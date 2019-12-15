@@ -23,3 +23,11 @@
 **Thoughts:** Similar to yesterday, this offered a new perspective on things I already knew and helped my brain to fully absorb their possible uses. Now I not only understand the theory behind what I learned today, but also the practical uses.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/jessdavcode)
+
+### Day 4: December 15, 2019
+
+**Today's Progress**: Half of Applied Accessibility module on FreeCodeCamp.
+
+**Thoughts:** Honestly, I only made it through half of the module because it's 1am and I've had a big day. Nearly didn't do anything but am committed to this, even if I cannot manage any more! I will make up for it tomorrow. Is useful content to know and be aware of, but also not that different to the past three days as far as how everything works, just a few new terminologies. Looking forward to applying it all to the certification projects in a few days time!
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/jessdavcode)
