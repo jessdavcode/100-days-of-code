@@ -31,3 +31,13 @@
 **Thoughts:** Honestly, I only made it through half of the module because it's 1am and I've had a big day. Nearly didn't do anything but am committed to this, even if I cannot manage any more! I will make up for it tomorrow. Is useful content to know and be aware of, but also not that different to the past three days as far as how everything works, just a few new terminologies. Looking forward to applying it all to the certification projects in a few days time!
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/jessdavcode)
+
+### Day 5: December 16, 2019
+
+**Today's Progress**: Finished Applied Accessibility, Responsive Web Design Principles, CSS Flexbox and CSS Grid modules on FreeCampCode.
+
+**Thoughts:** Made up for last night's slow progress by blitzing through it tonight. Excited that tomorrow I will be starting the projects for the Responsive Web Design certification and actually putting my skills to the test.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/jessdavcode)
+
+
