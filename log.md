@@ -55,3 +55,11 @@
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/jessdavcode) [CodePen Project](https://codepen.io/jessdav/full/BaypQdV)
 
 
+### Day 7: December 19, 2019
+
+**Today's Progress**: Responsive Web Design Project - Build a Tribute Page on FreeCodeCamp.
+
+**Thoughts:** Very basic website but submitted and finished for this certification! Tomorrow will be starting the survey form which will use a lot more of the skills shown in the past week.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/jessdavcode) [CodePen Project](https://codepen.io/jessdav/full/BaypQdV)
+
