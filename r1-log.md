@@ -11,3 +11,11 @@ The log of my #100DaysOfCode challenge. Started on January 23, 2020.
 **Thoughts:** Was really interesting to use blocks of code as opposed to actually writing the code out myself, but helped me to understand the logic behind each decision and also to see some examples of more complex coding abilities.
 
 **Link to work:** Dice app: ai2.appinventor.mit.edu/?galleryId=4864226870558720 Zoo app is not published yet as tomorrow's lecture will continue building upon today's framework!
+
+### Day 2: January 24, 2020
+
+**Today's Progress:** Used the MIT App Inventor to build on my zoo animal identifier app - using external scanners today (as part of my Mobile App Development course!).
+
+**Thoughts:** Learning a lot of the same logical flow commands I've already learned in the past but being presented the information in a new way is helping to solidify it, which is great! Still weird to be using blocks, doesn't feel like real coding, but is really helping me to wrap my head around commands etc.
+
+**Link to work:** Still unpublished for this app. Will update when it's published. Also cleared up my twitter account so I can start linking to daily tweets this weekend!
