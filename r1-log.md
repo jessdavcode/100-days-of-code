@@ -19,3 +19,11 @@ The log of my #100DaysOfCode challenge. Started on January 23, 2020.
 **Thoughts:** Learning a lot of the same logical flow commands I've already learned in the past but being presented the information in a new way is helping to solidify it, which is great! Still weird to be using blocks, doesn't feel like real coding, but is really helping me to wrap my head around commands etc.
 
 **Link to work:** Still unpublished for this app. Will update when it's published. Also cleared up my twitter account so I can start linking to daily tweets this weekend!
+
+### Day 3: January 25, 2020
+
+**Today's Progress:** Added a database to the zoo animal identifier app using TinyDB.
+
+**Thoughts:** Great to finally integrate a database and see how the variable system works with TinyDB. 
+
+**Link to work:** Still unpublished for this app. Will update when it's published. Twitter: [twitter.com/jesssdav]
