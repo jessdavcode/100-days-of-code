@@ -12,6 +12,7 @@ The log of my #100DaysOfCode challenge. Started on January 23, 2020.
 
 **Link to work:** Dice app: ai2.appinventor.mit.edu/?galleryId=4864226870558720 Zoo app is not published yet as tomorrow's lecture will continue building upon today's framework!
 
+
 ### Day 2: January 24, 2020
 
 **Today's Progress:** Used the MIT App Inventor to build on my zoo animal identifier app - using external scanners today (as part of my Mobile App Development course!).
@@ -20,6 +21,7 @@ The log of my #100DaysOfCode challenge. Started on January 23, 2020.
 
 **Link to work:** Still unpublished for this app. Will update when it's published. Also cleared up my twitter account so I can start linking to daily tweets this weekend!
 
+
 ### Day 3: January 25, 2020
 
 **Today's Progress:** Added a database to the zoo animal identifier app using TinyDB.
@@ -27,3 +29,12 @@ The log of my #100DaysOfCode challenge. Started on January 23, 2020.
 **Thoughts:** Great to finally integrate a database and see how the variable system works with TinyDB. 
 
 **Link to work:** Still unpublished for this app. Will update when it's published. Twitter: [twitter.com/jesssdav]
+
+
+### Day 4: January 26, 2020
+
+**Today's Progress:** Finished app code blocks - downloaded APK and went through process to release on app store (testing, debugging etc).
+
+**Thoughts:** So cool to see how the Google Play store works!
+
+**Link to work:** Still unpublished for this app but about to be on the Google Play store! I will publish on MIT AI tomorrow. Twitter: [twitter.com/jesssdav]
