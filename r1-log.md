@@ -38,3 +38,12 @@ The log of my #100DaysOfCode challenge. Started on January 23, 2020.
 **Thoughts:** So cool to see how the Google Play store works!
 
 **Link to work:** Still unpublished for this app but about to be on the Google Play store! I will publish on MIT AI tomorrow. Twitter: [twitter.com/jesssdav]
+
+
+### Day 5: January 27, 2020
+
+**Today's Progress:** Looked at monetisation of apps and played around with some HTML and CSS for my business website.
+
+**Thoughts:** I'm using Wix to build the site but the advanced website builder really lets me get into the actual coding and has been very interesting (and much nicer than just using the predesigned templates etc!). Once I have some articles online tomorrow/Thursday I will be able to style it a lot nicer and be more functional.
+
+**Link to work:** Website: [www.climaterewind.com] Twitter: [twitter.com/jesssdav]
