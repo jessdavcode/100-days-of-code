@@ -47,3 +47,48 @@ The log of my #100DaysOfCode challenge. Started on January 23, 2020.
 **Thoughts:** I'm using Wix to build the site but the advanced website builder really lets me get into the actual coding and has been very interesting (and much nicer than just using the predesigned templates etc!). Once I have some articles online tomorrow/Thursday I will be able to style it a lot nicer and be more functional.
 
 **Link to work:** Website: [www.climaterewind.com] Twitter: [twitter.com/jesssdav]
+
+
+### Day 6: January 28, 2020
+
+**Today's Progress:** More business website work, litle bit of debugging code!
+
+**Thoughts:** The parts of the site I coded today aren't live yet but should be by next week! I'm setting up templates for use in automating blog articles. Debugged a bit of code I found to mass delete social media posts (trying to clean everything up!). Was a bit overwhelming - nice, clean code was appreciated but still wasn't entirely sure what wasn't working.
+
+**Link to work:** Website: [www.climaterewind.com] Twitter: [twitter.com/jesssdav]
+
+
+### Day 7: January 29, 2020
+
+**Today's Progress:** Debugging Twitter code
+
+**Thoughts:** Wasn't entirely writing code today - just trying to figure out why the mass tweet delete code isn't working in my favour. A lot of trawling through StackExchange and random internet forums about twitter archive etc.
+
+**Link to work:** Twitter: [twitter.com/jesssdav]
+
+
+### Day 8: January 30, 2020
+
+**Today's Progress:** Debugging! I think we're almost there. Only 5000 left to delete.
+
+**Thoughts:** It just keeps crashing part way through - but I did manage to get majority of it completed so I don't think I'm far off finishing :D
+
+**Link to work:** Twitter: [twitter.com/jesssdav]
+
+
+### Day 9: January 31, 2020
+
+**Today's Progress:** Finished module 1 of Mobile App Development course! App is done.
+
+**Thoughts:** Finally able to publish my Zoo App! Wil be looking at Play Store in the next module I believe and starting Java, which is really exciting.
+
+**Link to work:** Twitter: [twitter.com/jesssdav]
+
+
+### Day 10: February 1, 2020
+
+**Today's Progress:** Finished the mass deletion of my twitter using Glitch code!!!
+
+**Thoughts:** An exhausting process that took three days (four?) total - I am so glad it's finally done. Was interesting to try and export to GitHub and have Glitch not want to co-operate for a while.
+
+**Link to work:** Repo: [github.com/jessdavcode/tweet-delete] Twitter: [twitter.com/jesssdav]
